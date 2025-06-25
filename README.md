@@ -1,9 +1,9 @@
 # 🔷 NMSHeroes
 
-📱 Project Type:
+# 📱 Project Type:
 An Android application designed using Java and the XML layout system in Android Studio.
 
-🎯 Purpose / Objective:
+# 🎯 Purpose / Objective:
 The purpose of NMSHeroes is to provide a quick-access emergency response app, featuring:
 
 User authentication (Login & Sign Up)
@@ -14,7 +14,7 @@ Access to emergency contacts and helpline information
 
 This could be targeted at users who need quick SOS or emergency access in critical situations.
 
-📁 App Structure
+# 📁 App Structure
 🔹 Main Components:
 MainActivity (Login Page)
 
@@ -63,7 +63,7 @@ Background image applied for design.
 
 Currently static — no actual list of contacts yet.
 
-🎨 UI Design:
+# 🎨 UI Design:
 Uses RelativeLayouts and hardcoded margins.
 
 ImageView as background for all screens (@drawable/faded).
@@ -72,7 +72,7 @@ Color-coded buttons and text views for readability.
 
 Consistent font style (serif) and text coloring.
 
-🎯 Key Takeaways for Interview:
+# 🎯 Key Takeaways for Interview:
 🔸 Project Goals
 "This app is designed as a personal safety and emergency contact tool. The idea is to help users access emergency contacts and SOS services quickly."
 
