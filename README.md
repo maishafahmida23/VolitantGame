@@ -1,4 +1,5 @@
-🔷 NMSHeroes
+# 🔷 NMSHeroes
+
 📱 Project Type:
 An Android application designed using Java and the XML layout system in Android Studio.
 
