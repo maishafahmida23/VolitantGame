@@ -30,7 +30,4 @@ The game or application can display dynamic graphics, respond to mouse/keyboard 
 - Windows API (Timers)
 - [`stb_image`](https://github.com/nothings/stb) for texture loading
 
----
-
-## 📁 Project Structure
 
